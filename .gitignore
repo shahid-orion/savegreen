@@ -38,4 +38,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# quote submissions (local dev data)
+/data
 next-env.d.ts
