@@ -15,7 +15,18 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
 	title: 'SaveGreen Cleaning Solutions',
 	description:
-		'Professional, reliable & affordable cleaning services. Home, office, end of lease, and more.'
+		'Professional, reliable & affordable cleaning services. Home, office, end of lease, and more.',
+	icons: {
+		icon: '/SaveGreen_logo_4.png',
+		apple: '/SaveGreen_logo_4.png'
+	},
+	openGraph: {
+		title: 'SaveGreen Cleaning Solutions',
+		description:
+			'Professional, reliable & affordable cleaning services. Home, office, end of lease, and more.',
+		images: [{ url: '/SaveGreen_logo_4.png' }],
+		type: 'website'
+	}
 }
 
 export default function RootLayout({
