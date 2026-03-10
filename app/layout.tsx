@@ -17,14 +17,14 @@ export const metadata: Metadata = {
 	description:
 		'Professional, reliable & affordable cleaning services. Home, office, end of lease, and more.',
 	icons: {
-		icon: '/SaveGreen_logo_4.png',
-		apple: '/SaveGreen_logo_4.png'
+		icon: '/SaveGreen_Logo_real.png',
+		apple: '/SaveGreen_Logo_real.png'
 	},
 	openGraph: {
 		title: 'SaveGreen Cleaning Solutions',
 		description:
 			'Professional, reliable & affordable cleaning services. Home, office, end of lease, and more.',
-		images: [{ url: '/SaveGreen_logo_4.png' }],
+		images: [{ url: '/SaveGreen_Logo_real.png' }],
 		type: 'website'
 	}
 }

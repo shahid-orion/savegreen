@@ -94,7 +94,7 @@ export default function Home() {
 			<header className="sticky top-0 z-50 border-b border-green-800/10 bg-white/95 backdrop-blur-md">
 				<div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
 					<Image
-						src="/SaveGreen_logo_4.png"
+						src="/SaveGreen_Logo_real.png"
 						alt="SaveGreen Cleaning Solutions"
 						width={48}
 						height={48}
@@ -125,7 +125,7 @@ export default function Home() {
 				<div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_50%,rgba(255,255,255,0.1),transparent_70%)]" />
 				<div className="relative mx-auto max-w-5xl px-5 pb-12 pt-10 text-center">
 					<Image
-						src="/SaveGreen_logo_4.png"
+						src="/SaveGreen_Logo_real.png"
 						alt="SaveGreen Cleaning Solutions"
 						width={100}
 						height={100}
@@ -382,7 +382,7 @@ export default function Home() {
 				<div className="mx-auto max-w-5xl">
 					<div className="flex flex-col items-center gap-6 text-center">
 						<Image
-							src="/SaveGreen_logo_4.png"
+							src="/SaveGreen_Logo_real.png"
 							alt="SaveGreen Cleaning Solutions"
 							width={60}
 							height={60}
